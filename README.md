@@ -2,6 +2,9 @@
 This is a simple android space game that player choose a space ship and fight with the other one. 
 Game also contains music when a ship got shot, when player won and lost the game 
 
+# APK
+you can find the apk file above
+
 # Which Technologies been used?
 - Java 19
 - Android Studio
